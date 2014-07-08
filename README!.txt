@@ -6,3 +6,5 @@ Please make sure you reference theme documentation for installation and usage in
 
 In any case, should there be any questions or anything you need help with, please feel free to contact our support at:
 http://cmsmasters.net/support
+
+[ ![Codeship Status for texaspacm/git_test](https://codeship.io/projects/e02f9e10-e88b-0131-6a80-42dcc991c0e3/status)](https://codeship.io/projects/26068)
